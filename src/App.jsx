@@ -4,15 +4,17 @@ import Home from "./components/Home";
 import RegisterPage from "./components/RegisterPage";
 import LoginPage from "./LoginPage";
 import Cart from "./components/Cart";
+import Pizza from "./components/Pizza"
 
 function App() {
   return (
     <>
       <Navbar />
-     {/* <Home />*/}
+     {/*<Home />*/}
     {/* <RegisterPage/>*/}
     {/*  <LoginPage/>*/}
-    <Cart/>
+    {/*<Cart/>*/}
+    <Pizza />
       <Footer />
     </>
   );

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import pizzas from "./utils/pizzas"; 
+import pizza from "./Pizza"; 
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const Cart = () => {
